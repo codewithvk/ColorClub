@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ColorClub/static/css/main.e98784a0.chunk.css",
+    "main.js": "/ColorClub/static/js/main.1fa315ee.chunk.js",
+    "main.js.map": "/ColorClub/static/js/main.1fa315ee.chunk.js.map",
+    "runtime-main.js": "/ColorClub/static/js/runtime-main.4b24578e.js",
+    "runtime-main.js.map": "/ColorClub/static/js/runtime-main.4b24578e.js.map",
+    "static/css/2.46bac688.chunk.css": "/ColorClub/static/css/2.46bac688.chunk.css",
+    "static/js/2.eea447f2.chunk.js": "/ColorClub/static/js/2.eea447f2.chunk.js",
+    "static/js/2.eea447f2.chunk.js.map": "/ColorClub/static/js/2.eea447f2.chunk.js.map",
+    "index.html": "/ColorClub/index.html",
+    "static/css/2.46bac688.chunk.css.map": "/ColorClub/static/css/2.46bac688.chunk.css.map",
+    "static/css/main.e98784a0.chunk.css.map": "/ColorClub/static/css/main.e98784a0.chunk.css.map",
+    "static/js/2.eea447f2.chunk.js.LICENSE.txt": "/ColorClub/static/js/2.eea447f2.chunk.js.LICENSE.txt",
+    "static/media/bg.f75ab03b.svg": "/ColorClub/static/media/bg.f75ab03b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b24578e.js",
+    "static/css/2.46bac688.chunk.css",
+    "static/js/2.eea447f2.chunk.js",
+    "static/css/main.e98784a0.chunk.css",
+    "static/js/main.1fa315ee.chunk.js"
+  ]
+}
