@@ -2,7 +2,7 @@
 ### Let's add color and make it beautiful.
 
 ## Overview 
-![](asset/img/SITE.PNG)
+![](asset/Img/SITE.PNG)
 
 - **Create Your Own Pallete**
 - **Every Thing Store in Local Storage**
@@ -11,7 +11,7 @@
 - **Create Your Own Color**
 
 ## Video Overview 
-[![](asset/img/YT.png)](https://youtu.be/3mU3YVl8p0k)
+[![](asset/Img/YT.png)](https://youtu.be/3mU3YVl8p0k)
 
 ## Tech Stack 
 
@@ -32,7 +32,9 @@
 #### -> Run Command in terminal cd ColorClub
 #### -> npm install
 #### -> npm start
-#### Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### -> Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+#### Mentor :- Colt Steele
 
 
 [Colt Steele]:<https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw>
