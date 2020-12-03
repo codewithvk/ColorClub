@@ -1,68 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ColorClub 🎨
+### Let's add color and make it beautiful.
 
-## Available Scripts
+## Overview 
+![](asset/SITE.PNG)
 
-In the project directory, you can run:
+- **Create Your Own Pallete**
+- **Every Thing Store in Local Storage**
+- **Copy RGB/RGBA/HEX Color Codes Directly To Your Clipboard**
+- **Every Color Mode (Dark/Light/etc)**
+- **Create Your Own Color**
 
-### `npm start`
+## Video Overview 
+[![](asset/YT.png)](https://youtu.be/3mU3YVl8p0k)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tech Stack 
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+- [react] - **Frontend Libraray**
+- [material-ui] - **UI Library**
+- [react-copy-to-clipboard] - **Tap to copy features**
+- [react-router-dom] - **For Client Side Routing**
+- [react-sortable-hoc] - **Sortable color box**
+- [react-transition-group] - **Route Transistions**
+- [chroma-js] - **For all color Handling and randomization**
+- [emoji-mart] - **Emoji Picker**
+- [rc-slider] - **Sliding In Navbar**
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Run Locally
+#### -> Fork This Repo.
+#### -> Clone Fork Repo.
+#### -> Run Command in terminal cd ColorClub
+#### -> npm install
+#### -> npm start
+#### Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Colt Steele]:<https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw>
+[FLAT UI COLORS 2]:<https://flatuicolors.com/>
+[Check it out]:<https://coolors.now.sh/> 
+[react]:<https://reactjs.org/>
+[material-ui]:<https://material-ui.com/>
+[react-copy-to-clipboard]:<https://www.npmjs.com/package/react-copy-to-clipboard>
+[react-router-dom]:<https://www.npmjs.com/package/react-router-dom>
+[react-sortable-hoc]:<https://www.npmjs.com/package/react-sortable-hoc>
+[react-transition-group]:<https://www.npmjs.com/package/react-transition-group>
+[chroma-js]:<https://vis4.net/chromajs/>
+[emoji-mart]:<https://www.npmjs.com/package/emoji-mart>
+[rc-slider]:<https://www.npmjs.com/package/rc-slider>
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
