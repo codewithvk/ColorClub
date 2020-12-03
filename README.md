@@ -2,7 +2,7 @@
 ### Let's add color and make it beautiful.
 
 ## Overview 
-![](asset/SITE.PNG)
+![](asset/img/SITE.PNG)
 
 - **Create Your Own Pallete**
 - **Every Thing Store in Local Storage**
@@ -11,7 +11,7 @@
 - **Create Your Own Color**
 
 ## Video Overview 
-[![](asset/YT.png)](https://youtu.be/3mU3YVl8p0k)
+[![](asset/img/YT.png)](https://youtu.be/3mU3YVl8p0k)
 
 ## Tech Stack 
 
