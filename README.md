@@ -1,4 +1,4 @@
-# (ColorClub) 🎨
+# ColorClub 🎨
 ### Let's add color and make it beautiful.
 ### For visit site , [Click Here](https://colorclub.netlify.app/)
 
